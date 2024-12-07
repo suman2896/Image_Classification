@@ -10,7 +10,7 @@ This project showcases an advanced image classification system by leveraging the
 1.Clone this repository:
 
 ```
-git clone https://github.com/<your-username>/Image-Classification-WebApp.git
+git clone https://github.com/suman2896/Image_Classification.git
 cd Image-Classification-WebApp
 ```
 2.Install dependencies:
